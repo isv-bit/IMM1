@@ -20,10 +20,10 @@ except:
     pass
 
 st.subheader("Cuentos cortos.")
-st.write("Mirringa Mirronga, la gata candonga,
-va a dar un convite jugando escondite,
-y quiere que todos los gatos y gatas
-no almuercen ratones ni cenen con ratas."
+st.write("Mirringa Mirronga, la gata candonga,"
+"va a dar un convite jugando escondite,"
+"y quiere que todos los gatos y gatas"
+"no almuercen ratones ni cenen con ratas."
          " Rafael Pombo."
         
         )
