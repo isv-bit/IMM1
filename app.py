@@ -20,7 +20,7 @@ except:
     pass
 
 st.subheader("Cuentos cortos.")
-st.write("El hijo de rana, Rinrín renacuajo
+st.write("""El hijo de rana, Rinrín renacuajo
 Salió esta mañana muy tieso y muy majo
 Con pantalón corto, corbata a la moda
 Sombrero encintado y chupa de boda.
@@ -34,7 +34,7 @@ A poco llegaron, y avanza ratón,
 Estírase el cuello, coge el aldabón,
 Da dos o tres golpes, preguntan: ¿quién es?
 -Yo doña ratona, beso a usted los pies"
-         " Rafael Pombo."
+          Rafael Pombo."""
         
         )
            
