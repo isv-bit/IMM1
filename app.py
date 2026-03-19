@@ -20,8 +20,7 @@ except:
     pass
 
 st.subheader("Cuentos cortos.")
-st.write("EL RENACUAJO PASEADOR
-El hijo de rana, Rinrín renacuajo
+st.write("El hijo de rana, Rinrín renacuajo
 Salió esta mañana muy tieso y muy majo
 Con pantalón corto, corbata a la moda
 Sombrero encintado y chupa de boda.
