@@ -20,10 +20,21 @@ except:
     pass
 
 st.subheader("Cuentos cortos.")
-st.write("Mirringa Mirronga, la gata candonga,"
-"va a dar un convite jugando escondite,"
-"y quiere que todos los gatos y gatas"
-"no almuercen ratones ni cenen con ratas."
+st.write("EL RENACUAJO PASEADOR
+El hijo de rana, Rinrín renacuajo
+Salió esta mañana muy tieso y muy majo
+Con pantalón corto, corbata a la moda
+Sombrero encintado y chupa de boda.
+-¡Muchacho, no salgas!- le grita mamá
+pero él hace un gesto y orondo se va.
+Halló en el camino, a un ratón vecino
+Y le dijo: -¡amigo!- venga usted conmigo,
+Visitemos juntos a doña ratona
+Y habrá francachela y habrá comilona.
+A poco llegaron, y avanza ratón,
+Estírase el cuello, coge el aldabón,
+Da dos o tres golpes, preguntan: ¿quién es?
+-Yo doña ratona, beso a usted los pies"
          " Rafael Pombo."
         
         )
