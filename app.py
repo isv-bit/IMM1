@@ -108,7 +108,7 @@ except:
 # =========================
 st.subheader("📖 Cuento corto")
 st.write("""El hijo de rana, Rinrín renacuajo,
-Salió esta mañana muy tieso y muy majo
+Salió esta mañana muy tieso y muy majo. 
 Con pantalón corto, corbata a la moda
 Sombrero encintado y chupa de boda.
 -¡Muchacho, no salgas!- le grita mamá
